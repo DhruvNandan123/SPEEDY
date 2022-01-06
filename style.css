@@ -1,0 +1,40 @@
+button{
+    border:cornflowerblue 3px solid;
+    cursor: pointer;
+    color: white;
+    font-size: 30px;
+    border-radius: 8px;
+    height: 60px;
+    background-color: navy;
+    width: 150px;
+}
+button:hover{
+    border:white 3px solid;
+    cursor: pointer;
+    color: navy;
+    font-size: 30px;
+    border-radius: 8px;
+    height:70px;
+    background-color: cornflowerblue;
+    width: 160px;
+}
+
+button {
+     transition-duration: 0.4s;
+}
+
+body{
+    background-color: #FF0800;
+}
+h1{
+    
+    font-family: 'Pushster', cursive;
+    color:whitesmoke;
+}
+.logo{
+    width: 500px;
+	margin-top: 30px;
+	border-radius: 230px;
+    border-color: blue;
+    border-style: solid;
+}
